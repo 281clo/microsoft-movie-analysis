@@ -1,3 +1,5 @@
+![graph4](./images/NoteBookHeader.png)
+
 # Title
 
 **Authors**: Doug Mill, Carlos McCrum, Seung Lee
