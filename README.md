@@ -1,6 +1,7 @@
-![graph4](./images/NotebookHeader.png)
-
-# Title
+<p align="center" width="100%">
+    <img width="33%" src="![graph4](./images/NotebookHeader.png)"> 
+</p>
+# Microsoft Movie Optimization Unit
 
 **Authors**: Doug Mill, Carlos McCrum, Seung Lee
 
