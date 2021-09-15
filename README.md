@@ -1,14 +1,15 @@
 
 ![graph7](./images/NotebookHeader.png)
-# Microsoft Movie Optimization Unit
+# Microsoft Movie Analysis
 
 **Authors**: Doug Mill, Carlos McCrum, Seung Lee
 
 ## Overview
 
+What Better Way To Launch Microsoft's New Movie Other Than An Original Blockbuster Series?!
+
 Task: Inform Microsoft on how they can premier their first movie successfully. We investigated past movies to see what made the most money and how we can replicate them. We broke down those movies into these categories: What genres are selling, how much money are they spending, and when is the right time to release our movie?
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
 
 ![graph8](./images/director_shot.jpeg)
 
@@ -16,6 +17,7 @@ A one-paragraph overview of the project, including the business problem, data, m
 
 Microsoft is looking to launch a movie, however they are unsure of the space. We are here to help visualize what types of movies have been doing well historically and how Microsoft can replicate such success.
 
+By creating our own series, we can create more loyal and dedicated fans, but we must do it right. We first looked through the different genres to see what films attact people and narrow down their interest. We look to the seasons to determine if there is an ideal time to release our movie (High demand for movies and Competition) 
 
 ## Data
 
