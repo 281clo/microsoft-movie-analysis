@@ -1,6 +1,5 @@
-<p align="center" width="100%">
-    <img width="33%" src="![graph4](./images/NotebookHeader.png)"> 
-</p>
+
+![graph7](./images/NotebookHeader.png)
 # Microsoft Movie Optimization Unit
 
 **Authors**: Doug Mill, Carlos McCrum, Seung Lee
@@ -10,6 +9,8 @@
 Task: Inform Microsoft on how they can premier their first movie successfully. We investigated past movies to see what made the most money and how we can replicate them. We broke down those movies into these categories: What genres are selling, how much money are they spending, and when is the right time to release our movie?
 
 A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+
+![graph8](./images/director_shot.jpeg)
 
 ## Business Problem
 
@@ -32,20 +33,20 @@ We first prepared the BigFrame by combining all the necessary tables together us
 
 Releasing our film during May is ideal. History has shown that May returns the greatest revenue income for large production movies. With other movie competition not being so high in the beginning half of the year, May presents itself as the most ideal opportunity to debut our blockbuster film.
 
-### Visual 1
+### How Well Does Each Genre Perform?
 ![graph1](./images/genre_domestic.png) ![graph3](./images/genre_foreign.png)
 
 Genres 'Adventure' and 'Sci-fi' returns the highest median gross for movies within our dataset. 'Family' does well domestically, but not too well internationally. 'Action' is also a consistent genre that performs better than average.
 
-### Visual 2
+### Total Number of Genres Released for Each Genre
 ![graph2](./images/genre_totals.png)
 Not many production companies are creating Sci-fi films even though they are in high demand. This creates the perfect opportunity for our team.
 
-### Visual 5
+### Seasonal Average Worldwide Gross Income
 ![graph5](./images/avg_gross_bordered.png)
 May is historically the best month for large movie productions. Could be due to summer time and people going on vacations / more free time. Or perhaps because the hot weather encourages more indoor activies. Regardless, summer time is especially attractive time to release our film.
 
-### Visual 6
+### Number of Movies Released Each Month
 ![graph6](./images/total_movies.png)
 Combined with the relatively low volume, there is no better time in the year.
 
