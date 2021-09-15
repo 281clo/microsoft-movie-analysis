@@ -1,4 +1,4 @@
-![graph4](./images/NoteBookHeader.png)
+![graph4](./images/NotebookHeader.png)
 
 # Title
 
