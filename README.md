@@ -55,11 +55,11 @@ Not many production companies are creating Sci-fi films even though they are in 
 
 ### Doug's Graphs
 
-![graph6](./images/budget_gross)
+![graph6](./images/budget_gross.png)
 
-![graph7](./images/budget_gross2)
+![graph7](./images/budget_gross2.png)
 
-![graph8](./images/budget_gross3)
+![graph8](./images/budget_gross3.png)
 
 These graphs demonstrate the correlation between budget and box office performance domestically and worldwide.
 Some of the films that had the greatest returns on investment (ROI) were in the $20M-$100M budget range.
