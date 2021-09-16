@@ -1,5 +1,5 @@
 
-![graph7](./images/NotebookHeader.png)
+![graph1](./images/NotebookHeader.png)
 # Microsoft Movie Optimization Unit
 
 **Authors**: Doug Mill, Carlos McCrum, Seung Lee
@@ -11,7 +11,7 @@ What Better Way To Launch Microsoft's New Movie Other Than An Original Blockbust
 Task: Inform Microsoft on how they can premier their first movie successfully. We investigated past movies to see what made the most money and how we can replicate them. We broke down those movies into these categories: What genres are selling, how much money are they spending, and when is the right time to release our movie?
 
 
-![graph8](./images/director_shot.jpeg)
+![graph2](./images/director_shot.jpeg)
 
 ## Business Problem
 
@@ -45,21 +45,36 @@ Looking at our results, our recommendation is a well funded (> $100,000,000) Sci
 Releasing our film during May is ideal. History has shown that May returns the greatest revenue income for large production movies. With other movie competition not being so high in the beginning half of the year, May presents itself as the most ideal opportunity to debut our blockbuster film.
 
 ### How Well Does Each Genre Perform?
-![graph1](./images/genre_domestic.png) ![graph3](./images/genre_foreign.png)
+![graph3](./images/genre_domestic.png) ![graph4](./images/genre_foreign.png)
 
 Genres 'Adventure' and 'Sci-fi' returns the highest median gross for movies within our dataset. 'Family' does well domestically, but not too well internationally. 'Action' is also a consistent genre that performs better than average.
 
 ### Total Number of Genres Released for Each Genre
-![graph2](./images/total_genres.png)
+![graph5](./images/total_genres.jpg)
 Not many production companies are creating Sci-fi films even though they are in high demand. This creates the perfect opportunity for our team.
 
+### Doug's Graphs
+
+![graph6](./images/budget_gross)
+
+![graph7](./images/budget_gross2)
+
+![graph8](./images/budget_gross3)
+
+These graphs demonstrate the correlation between budget and box office performance domestically and worldwide.
+Some of the films that had the greatest returns on investment (ROI) were in the $20M-$100M budget range.
+Multiple films were able to gain >400% returns domestically and >1000% worldwide.
+Budget has a strong positive correlation to box office.
+Geographically transcendant films with a budget of <$100M had the greatest ROI (%).
+Movies with higher budgets brought in the largest profit margins.
+
 ### Seasonal Average Worldwide Gross Income
-![graph5](./images/total_gross.png)
+![graph9](./images/seasonal_gross.jpg)
 
 May is historically the best month for large movie productions. Could be due to summer time and people going on vacations / more free time. Or perhaps because the hot weather encourages more indoor activies. Regardless, summer time is especially attractive time to release our film.
 
 ### Number of Movies Released Each Month
-![graph6](./images/total_seasons.png)
+![graph10](./images/total_seasonal.jpg)
 
 Combined with the relatively low volume, there is no better time in the year.
 
