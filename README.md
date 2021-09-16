@@ -50,16 +50,16 @@ Releasing our film during May is ideal. History has shown that May returns the g
 Genres 'Adventure' and 'Sci-fi' returns the highest median gross for movies within our dataset. 'Family' does well domestically, but not too well internationally. 'Action' is also a consistent genre that performs better than average.
 
 ### Total Number of Genres Released for Each Genre
-![graph2](./images/genre_totals.png)
+![graph2](./images/total_genres.png)
 Not many production companies are creating Sci-fi films even though they are in high demand. This creates the perfect opportunity for our team.
 
 ### Seasonal Average Worldwide Gross Income
-![graph5](./images/avg_gross_bordered.png)
+![graph5](./images/total_gross.png)
 
 May is historically the best month for large movie productions. Could be due to summer time and people going on vacations / more free time. Or perhaps because the hot weather encourages more indoor activies. Regardless, summer time is especially attractive time to release our film.
 
 ### Number of Movies Released Each Month
-![graph6](./images/total_movies.png)
+![graph6](./images/total_seasons.png)
 
 Combined with the relatively low volume, there is no better time in the year.
 
