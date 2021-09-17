@@ -98,10 +98,12 @@ For any additional questions, please contact **Doug Mill | thedougmill@gmail.com
 
 ## Repository Structure
 
+You are in the README.md. The 'Index.ipynb' contains the jupyter notebook that explains our data science steps for you to replicate! Our 'Slides.pdf' contains our google slides presentation that sums up important information for our audience. In 'data' you will be able to see the dataset we worked with. Likewise, 'Images' will contain images used in this 'README.md' generated from code and as well as from the web.
+
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── index.ipynb                         <- Narrative documentation of analysis in Jupyter notebook
-├── slides.pdf                          <- PDF version of project presentation
+├── Index.ipynb                         <- Narrative documentation of analysis in Jupyter notebook
+├── Slides.pdf                          <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```
