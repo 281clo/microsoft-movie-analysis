@@ -92,7 +92,7 @@ The genres that gross the most are Adventure and Science Fiction. To create a go
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./index.ipynb) or our [presentation](./slides.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Index.ipynb) or our [presentation](./Slides.pdf).
 
 For any additional questions, please contact **name & email, name & email**
 
