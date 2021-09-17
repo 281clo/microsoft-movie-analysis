@@ -94,11 +94,9 @@ The genres that gross the most are Adventure and Science Fiction. To create a go
 
 Please review our full analysis in [our Jupyter Notebook](./Index.ipynb) or our [presentation](./Slides.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact **Doug Mill | thedougmill@gmail.com, Carlos McCrum | carlosmccrum@gmail.com Seung Lee | baekho5767@gmail.com**
 
 ## Repository Structure
-
-Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
