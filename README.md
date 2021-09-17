@@ -44,7 +44,7 @@ Looking at our results, our recommendation is a well funded (> $100,000,000) Sci
 Releasing our film during May is ideal. History has shown that May returns the greatest revenue income for large production movies. With other movie competition not being so high in the beginning half of the year, May presents itself as the most ideal opportunity to debut our blockbuster film.
 
 ### Total Number of Movies Released for Each Genre
-![graph5](./images/genre_total.jpg)
+![graph5](./images/genre_total.png)
 Not many production companies are creating Sci-fi films even though they are in high demand. This creates the perfect opportunity for our team.
 
 ### How Well Does Each Genre Perform?
